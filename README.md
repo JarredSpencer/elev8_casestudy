@@ -1,6 +1,6 @@
 # elev8_casestudy
 
-##Jarred Spencer
+Jarred Spencer
 
   elev8 Advisors Group LLC was founded on April 11th, 2019 by Adam and Kristen Spencer. Adam serves as Founder and Managing Partner of elev8 Advisors Group; with a deeply rooted past of nearly 25 years of experience in Financial Services and Payments. Prior to creating elev8; Adam enjoyed a rewarding and highly regarded path to success at both JP Morgan Chase, & BBVA.Adam served in Sr. Executive & Global Leadership positions spanning North America, Latin America, Turkey and Spain. Adam is widely regarded within Payments as an industry expert, and has helped raise over $200 million dollars in private equity and venture capital. Adam’s strategic thinking and global views help guide the client-centric focus of the elev8 team. The advisement group was 100% bootstrapped and did not receive any funding from outside sources. 
 
